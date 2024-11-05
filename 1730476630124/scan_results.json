@@ -1,0 +1,46 @@
+{
+  "qr_code_text": "iH5L87B370i4z78oJ15HJUj43PfVYW",
+  "device_ID": "UNKNOWN",
+  "scan_result": {
+    "date": 1730476630124,
+    "locale": "(GMT+00:00) Local Time",
+    "calibration": {
+      "type": "calibration",
+      "version": "v0.4",
+      "date": 1730476783365,
+      "analysis": {
+        "version": "2.0.0",
+        "date": 1730476783365
+      },
+      "metrics": {
+        "params": [ 1.0, 0.0, 0.0, 0.0, 0.0 ],
+        "accuracy": 1.90499,
+        "noise_level": 0.0,
+        "BCEA": [ 0.0, 0.0 ],
+        "probability": [ 0.0, 0.0 ]
+      }
+    },
+    "COBRA": {
+      "type": "COBRA",
+      "version": "v0.4",
+      "date": 1730476783365,
+      "analysis": {
+        "version": null,
+        "date": 1730476783365
+      },
+      "metrics": {
+        "INIT_latency": 0.157063,
+        "INIT_accel": 223.874,
+        "SS_gain": 0.68562,
+        "SS_sacc_amp": 5.47249,
+        "SS_prop_smooth": 0.392992,
+        "DIR_anisotropy": "NaN",
+        "DIR_asymmetry": "NaN",
+        "DIR_noise": 11.9609,
+        "SPD_responsiveness": 1.075,
+        "SPD_noise": 3.30557,
+        "nFit": 0.558357
+      }
+    }
+  }
+}
