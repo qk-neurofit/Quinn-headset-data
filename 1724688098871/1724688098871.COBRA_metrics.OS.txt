@@ -1,0 +1,10 @@
+UTC: 1724688098871
+InitLatency: 0.163662
+InitAccel: 225.268
+DIR_noise: 15.3014
+SS_gain: 0.573425
+SS_sacc_amp: 5.96909
+SS_prop_smooth: 0.349574
+SPD_reponsiveness: 0.95
+SPD_noise: 3.96
+nFit: -0.280156
