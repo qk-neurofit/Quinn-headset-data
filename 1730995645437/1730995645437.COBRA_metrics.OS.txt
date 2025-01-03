@@ -1,0 +1,12 @@
+UTC: 1730995645437
+INIT_latency: 0.157039
+INIT_accel: 248.041
+SS_gain: 0.598765
+SS_sacc_amp: 5.86141
+SS_prop_smooth: 0.240658
+DIR_anisotropy: nan
+DIR_asymmetry: nan
+DIR_noise: 8.77709
+SPD_responsiveness: 0.5
+SPD_noise: 2.94848
+nFit: -0.134393
